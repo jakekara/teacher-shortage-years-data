@@ -1,0 +1,6 @@
+state,19901991,19911992,19921993,19931994,19941995,19951996,19961997,19971998,19981999,19992000,20002001,20012002,20022003,20032004,20042005,20052006,20062007,20072008,20082009,20092010,20102011,20112012,20122013,20132014,20142015,20152016,20162017
+NEW YORK,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True
+CONNECTICUT,False,False,True,True,True,False,False,False,,,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+MASSACHUSETTS,True,True,True,True,True,True,True,True,True,False,True,,,,True,True,True,True,False,False,True,True,False,False,False,False,False
+NEW JERSEY,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+RHODE ISLAND,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True

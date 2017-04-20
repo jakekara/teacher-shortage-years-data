@@ -1,0 +1,52 @@
+state,19901991,19911992,19921993,19931994,19941995,19951996,19961997,19971998,19981999,19992000,20002001,20012002,20022003,20032004,20042005,20052006,20062007,20072008,20082009,20092010,20102011,20112012,20122013,20132014,20142015,20152016,20162017
+VERMONT,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+GEORGIA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,False,False,False,False,False,False
+IOWA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+KANSAS,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+FLORIDA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,True,False,False,False
+VIRGINIA,True,True,True,True,True,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+NORTH CAROLINA,False,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+HAWAII,,,,False,False,False,False,False,False,,,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+NEW YORK,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True
+CALIFORNIA,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+ALABAMA,True,True,True,True,True,True,True,True,True,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+IDAHO,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+DELAWARE,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,True,True,True,True,True,True,True,True,True
+ALASKA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+ILLINOIS,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,True
+SOUTH DAKOTA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,
+CONNECTICUT,False,False,True,True,True,False,False,False,,,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+MONTANA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+MASSACHUSETTS,True,True,True,True,True,True,True,True,True,False,True,,,,True,True,True,True,False,False,True,True,False,False,False,False,False
+NEW HAMPSHIRE,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+MARYLAND,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,False,False
+NEW MEXICO,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,False,False,True,True,True
+MISSISSIPPI,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+TENNESSEE,False,False,True,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+COLORADO,False,False,False,False,False,True,True,True,True,True,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False
+NEW JERSEY,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+UTAH,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+MICHIGAN,False,False,False,False,False,False,False,False,False,True,False,True,True,True,True,True,True,,False,False,False,False,False,True,True,True,True
+WEST VIRGINIA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+WASHINGTON,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False,False,False,True,True,True
+MINNESOTA,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,True,True,True,True,True,False,False,False,False,False
+OREGON,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,True,True,True,True
+WYOMING,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False,False,,,
+OHIO,False,False,False,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False,False
+SOUTH CAROLINA,True,True,True,True,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INDIANA,True,True,True,True,True,False,True,False,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+NEVADA,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+LOUISIANA,True,True,True,False,False,False,False,False,False,False,False,False,False,False,,,,,False,False,False,False,False,False,False,False,False
+NEBRASKA,True,True,True,True,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+ARIZONA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,True,False,True,True,True
+WISCONSIN,False,False,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+NORTH DAKOTA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+PENNSYLVANIA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+OKLAHOMA,False,False,False,False,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+KENTUCKY,True,True,True,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+RHODE ISLAND,True,True,True,True,True,True,True,True,True,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,True
+DISTRICT OF COLUMBIA,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+ARKANSAS,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+MISSOURI,True,True,True,True,True,False,False,False,False,False,True,True,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+TEXAS,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
+MAINE,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False

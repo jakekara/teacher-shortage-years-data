@@ -1,0 +1,12 @@
+# Turning gross teacher shortage areas list into data
+
+The federal government keeps a list of instruction categories where there
+are teacher shortages in each state, Puerto Rico, and at some other places
+that I don't need to know about for the project I'm doing right now.
+
+Unfortunately the data is in a list, in a word doc. I couldn't find a
+spreadsheet version of it anywhere, so this is a quick-and-dirty
+translation to CSV.
+
+Here's the data: https://www2.ed.gov/about/offices/list/ope/pol/tsa.html#list
+
